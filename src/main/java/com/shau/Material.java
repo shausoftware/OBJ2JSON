@@ -6,6 +6,10 @@ import lombok.Data;
 import java.util.ArrayList;
 import java.util.List;
 
+/**
+ * PBR suitable material
+ */
+
 @Data
 public class Material {
     private String materialName;

@@ -4,6 +4,10 @@ import com.shau.*;
 
 import java.util.Map;
 
+/**
+ * Example Iron Man OBJ to JSON transformation configuration.
+ */
+
 public class IronMan implements ModelConfig {
 
     private String inObjFilePath = "samples/IronMan3.obj";
